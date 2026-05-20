@@ -1,0 +1,41 @@
+[
+  {
+    "id": "31L_zEvuC_jV",
+    "createdAt": "2026-04-08T06:45:12.703Z",
+    "name": "rgyn",
+    "phone": "9876543219",
+    "email": "developer@estates61.com",
+    "interest": "Buying a Property",
+    "budget": "₹50L – ₹1 Crore",
+    "city": "omr"
+  },
+  {
+    "id": "rwx-lWoiBsdG",
+    "createdAt": "2026-04-08T06:34:12.109Z",
+    "name": "567",
+    "phone": "23333333",
+    "email": "123@gmail.com",
+    "message": "edeuhefehf",
+    "interest": "Selling a Property",
+    "budget": "Under ₹50 Lakh",
+    "city": "hfeigdjk"
+  },
+  {
+    "id": "edlZ7fEI6Ic0",
+    "createdAt": "2026-04-08T06:32:56.273Z",
+    "name": "123",
+    "phone": "123333333",
+    "email": "yuva23@gmail.com"
+  },
+  {
+    "id": "79geNaJPWzIF",
+    "createdAt": "2026-04-08T06:31:33.072Z",
+    "name": "Test User",
+    "phone": "9876543210",
+    "email": "test@example.com",
+    "message": "Test inquiry",
+    "interest": "Buying a Property",
+    "budget": "Under 50 Lakh",
+    "city": "Chennai"
+  }
+]
